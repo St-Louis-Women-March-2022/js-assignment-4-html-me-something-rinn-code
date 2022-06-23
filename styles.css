@@ -1,1 +1,14 @@
 /* Write your CSS here! */
+body, footer {
+    font-family: Tahoma;
+    text-align: center;
+    justify-content: center;
+    background-color: lightyellow;
+  }
+  .main {
+    margin-top: 30px; 
+  }
+  body {
+    margin: 8px;
+    display: block;
+  }
